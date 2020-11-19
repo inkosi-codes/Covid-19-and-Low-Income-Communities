@@ -1,4 +1,4 @@
-# A analysis on the affects the COVID-19 Pandemic has had in **Low Income Communities**
+# An analysis on the affects the COVID-19 Pandemic has had in **Low Income Communities**
 
 ## Project Contributors
 
