@@ -2,13 +2,13 @@
 
 ## Project Contributors
 
-* Jazlyn Mazick
+* [Jazlyn Mazick](https://github.com/JMazick)
 
-* Michael Rivera
+* [Michael Rivera](https://github.com/m-rivera1)
 
-* Miguel Padilla
+* [Miguel Padilla](https://github.com/mpadil15)
 
-* Niguel Williams
+* [Niguel Williams](https://github.com/inkosi-codes)
 
 ## Overview
 As the pandemic continues to obstruct our everyday lives we wait patiently longing to return to some sort of normalcy in our lives. The current situation has had an affect not just here in the US, but communities all around the world are still trying to grapple with a virus that has no boundaries and does not discriminate on race, gender, etc. We chose to do this analysis not only because it's a current world issue, but we wanted to see if we could identify
